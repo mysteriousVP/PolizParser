@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\bin\Debug\netcoreapp3.1\LexicalAnalyzer.exe
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\bin\Debug\netcoreapp3.1\LexicalAnalyzer.deps.json
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\bin\Debug\netcoreapp3.1\LexicalAnalyzer.runtimeconfig.json
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\bin\Debug\netcoreapp3.1\LexicalAnalyzer.runtimeconfig.dev.json
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\bin\Debug\netcoreapp3.1\LexicalAnalyzer.dll
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\bin\Debug\netcoreapp3.1\LexicalAnalyzer.pdb
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.AssemblyInfo.cs
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.dll
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.pdb
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LexicalAnalyzer\obj\Debug\netcoreapp3.1\LexicalAnalyzer.genruntimeconfig.cache

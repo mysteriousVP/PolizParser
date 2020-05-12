@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.csprojAssemblyReference.cache
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.AssemblyInfo.cs
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LexicalAnalyzer.exe
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LanguagePOLIZParser.exe
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LanguagePOLIZParser.deps.json
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LanguagePOLIZParser.runtimeconfig.json
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LanguagePOLIZParser.runtimeconfig.dev.json
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LanguagePOLIZParser.dll
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LanguagePOLIZParser.pdb
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LexicalAnalyzer.dll
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\bin\Debug\netcoreapp3.1\LexicalAnalyzer.pdb
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.csproj.CopyComplete
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.dll
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.pdb
+C:\Users\User\Desktop\6 семестр\САПР-2\LanguagePOLIZParser\LanguagePOLIZParser\obj\Debug\netcoreapp3.1\LanguagePOLIZParser.genruntimeconfig.cache

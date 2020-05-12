@@ -1,0 +1,8 @@
+program 
+	int test;
+	test = ( 15 * (1 + 2));
+	test = ( 15 * (1 + 2));
+	int back;
+	back = ( 15 - 15 * 1 / 5);
+	test = 1 + 5;
+end

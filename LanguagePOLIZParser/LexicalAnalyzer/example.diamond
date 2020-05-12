@@ -1,0 +1,4 @@
+program 
+	int test;
+	test = ( 15 * (1 + 2));
+end
